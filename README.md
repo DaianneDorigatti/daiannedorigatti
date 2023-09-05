@@ -1,7 +1,7 @@
-### Hello! I am Daianne...
+### Olá! Meu nome é Daianne...
 
 
-- 🌱 I'm studying Java;
+- 🌱 Atualmente estou estudando Java;
 - daiannedorigatti@gmail.com
 
 ![daiannedorigatti GitHub stats](https://github-readme-stats.vercel.app/api?username=daiannedorigatti&show_icons=true&theme=dracula)
