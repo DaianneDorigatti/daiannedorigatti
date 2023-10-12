@@ -1,8 +1,10 @@
 ### Olá! Meu nome é Daianne...
 
 
-- 🌱 Atualmente estou estudando Java;
-- daiannedorigatti@gmail.com
+- Atualmente estou estudando Java, me aprofundando principalmente nas ferramentas do Spring, buscando conhecimento
+- sobre requisições de API's, microservices e banco de dados;
+- Estou cursando Sistemas de Informação e finalizei meu curso na Trybe de Desenvolvimento Web com especialização em Java;
+- Meu email: daiannedorigatti@gmail.com
 
 ![daiannedorigatti GitHub stats](https://github-readme-stats.vercel.app/api?username=daiannedorigatti&show_icons=true&theme=dracula)
 
